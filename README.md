@@ -1,0 +1,2 @@
+# pwgen
+Pure JavaScript pwgen
