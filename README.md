@@ -7,3 +7,8 @@ Pure JavaScript password generation.
 
 ## Usage
 > var pwgen = require("pwgenjs");
+
+## Todo
+Add a CLI. 
+
+Add more documentation, but for now, "Read the Source, Luke".
