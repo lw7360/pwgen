@@ -12,3 +12,5 @@ Pure JavaScript password generation.
 Add a CLI. 
 
 Add more documentation, but for now, "Read the Source, Luke".
+
+Add options object as an argument option.
