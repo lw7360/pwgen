@@ -1,0 +1,25 @@
+{
+  "name": "pwgenjs",
+  "version": "0.0.1",
+  "description": "Pure JavaScript password generation",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lw7360/pwgen.git"
+  },
+  "keywords": [
+    "pwgen"
+  ],
+  "author": "Larry Wu <lw7360@gmail.com> (http://larrywu.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lw7360/pwgen/issues"
+  },
+  "homepage": "https://github.com/lw7360/pwgen#readme",
+  "dependencies": {
+    "chance": "^0.7.7"
+  }
+}
